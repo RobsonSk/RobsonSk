@@ -1,6 +1,6 @@
 # Olá, sou Robson! 👋
 
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes.
+Sou analista de suporte e um estudante de programação, com ambições de me tornar desenvolvedor de software nos próximos anos.
 Tenho experiência em Node.js, JavaScript, serviços para web e automações. 
 Meu foco principal é o desenvolvimento de aplicações web com ênfase em comunicação via API Rest.
 
