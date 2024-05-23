@@ -17,8 +17,8 @@ Meu foco principal é o desenvolvimento de aplicações web com ênfase em comun
 
 ## 📫 Como Me Encontrar
 
-- [LinkedIn:](https://www.linkedin.com/in/robson-dos-santos-scartezini/)
-- [Email: ](mailto:robsonshk@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/robson-dos-santos-scartezini/)
+- [Email](mailto:robsonshk@gmail.com)
 
 ## 💼 Projetos em Destaque
 
