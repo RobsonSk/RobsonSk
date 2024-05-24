@@ -1,4 +1,5 @@
 # Olá, sou Robson! 👋
+[![wakatime](https://wakatime.com/badge/user/aeac47eb-fb5a-48a2-807d-f7222514b3da.svg)](https://wakatime.com/@aeac47eb-fb5a-48a2-807d-f7222514b3da)
 
 Sou analista de suporte e um estudante de programação, com ambições de me tornar desenvolvedor de software nos próximos anos.
 Tenho experiência em Node.js, JavaScript, serviços para web e automações. 
@@ -14,7 +15,7 @@ Meu foco principal é o desenvolvimento de aplicações web com ênfase em comun
 
 ![Estatísticas do GitHub de Robson Scartezini](https://github-readme-stats.vercel.app/api?username=RobsonSk&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonSk&layout=compact&theme=dark)
-[![wakatime](https://wakatime.com/badge/user/aeac47eb-fb5a-48a2-807d-f7222514b3da.svg)](https://wakatime.com/@aeac47eb-fb5a-48a2-807d-f7222514b3da)
+
 
 ## 📫 Como Me Encontrar
 
