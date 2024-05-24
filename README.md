@@ -14,7 +14,7 @@ Meu foco principal é o desenvolvimento de aplicações web com ênfase em comun
 
 ![Estatísticas do GitHub de Robson Scartezini](https://github-readme-stats.vercel.app/api?username=RobsonSk&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonSk&layout=compact&theme=dark)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RobsonSk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RobsonSk&show_icons=true&theme=dark)]
 
 ## 📫 Como Me Encontrar
 
