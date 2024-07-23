@@ -8,7 +8,7 @@ Atualmentes estou estudando React, React Native e Nest.JS
 
 ## 🚀 Habilidades
 
-- **Linguagens**: JavaScript, HTML, CSS, Python
+- **Linguagens**: JavaScript, Python
 - **Frameworks e Bibliotecas**: Node.js, Express, Angular
 - **Ferramentas e Plataformas**: Git, Docker, PM2, MongoDB, Oracle
 
