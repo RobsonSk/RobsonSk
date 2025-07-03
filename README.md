@@ -1,4 +1,3 @@
-# Olá, sou Robson! 👋
 [![wakatime](https://wakatime.com/badge/user/aeac47eb-fb5a-48a2-807d-f7222514b3da.svg)](https://wakatime.com/@aeac47eb-fb5a-48a2-807d-f7222514b3da)
 
 Analista de Suporte Técnico | Desenvolvedor JavaScript | Especialista em Banco de Dados 
