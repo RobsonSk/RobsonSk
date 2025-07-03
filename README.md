@@ -1,16 +1,13 @@
 # Olá, sou Robson! 👋
 [![wakatime](https://wakatime.com/badge/user/aeac47eb-fb5a-48a2-807d-f7222514b3da.svg)](https://wakatime.com/@aeac47eb-fb5a-48a2-807d-f7222514b3da)
 
-Sou analista de suporte e um estudante de programação, com ambições de me tornar desenvolvedor de software nos próximos anos.
-Tenho experiência em Node.js, JavaScript, serviços para web e automações. 
-Meu foco principal é o desenvolvimento de aplicações web com ênfase em comunicação via API Rest.
-Atualmentes estou estudando React, React Native e Nest.JS
+Analista de Suporte Técnico | Desenvolvedor JavaScript | Especialista em Banco de Dados 
+• Vasta experiência em Oracle, MSSQL e MongoDB
+• Desenvolvimento em Node.js, JavaScript, APIs REST e integração de dados multi-plataforma. 
+• Automações e integração de sistemas 
+• Foco em soluções full-stack com múltiplas bases de dados
+• Conhecimentos em React, React Native e Nest.JS para desenvolvimento de aplicações completas
 
-## 🚀 Habilidades
-
-- **Linguagens**: JavaScript, Python
-- **Frameworks e Bibliotecas**: Node.js, Express, Angular
-- **Ferramentas e Plataformas**: Git, Docker, PM2, MongoDB, Oracle
 
 ## 📈 Estatísticas do GitHub
 
